@@ -1,0 +1,125 @@
+{
+  "combo": false,
+  "comboPattern": "/co??%s",
+  "hash": "f0ab3c",
+  "res": {
+     "components/top_nav/top_nav.tpl": {
+        "uri": "components/top_nav/top_nav.tpl",
+        "type": "tpl",
+        "deps": [
+          "components/top_nav/top_nav.js",
+          "components/top_nav/top_nav.css"
+        ]
+     },
+      "components/top_nav/top_nav.js": {
+        "uri": "/static/pc_site/script/component/top_nav.js",
+        "type": "js"
+     },
+     "components/top_nav/top_nav.css": {
+        "uri": "/static/pc_site/style/component/top_nav.css",
+        "type": "css"
+     },
+      "components/nav/nav.tpl": {
+        "uri": "components/nav/nav.tpl",
+        "type": "tpl",
+        "deps": [
+          "components/nav/nav.js",
+          "components/nav/nav.css"
+        ]
+     },
+     "components/secondary_page_nav/secondary_page_nav.tpl": {
+        "uri": "components/secondary_page_nav/secondary_page_nav.tpl",
+        "type": "tpl",
+        "deps": [
+          "components/nav/nav.js",
+          "components/secondary_page_nav/secondary_page_nav.css"
+        ]
+     },
+     "components/nav/nav.js": {
+        "uri": "/static/pc_site/script/component/nav.js",
+        "type": "js"
+     },
+     "components/nav/nav.css": {
+        "uri": "/static/pc_site/style/component/nav.css",
+        "type": "css"
+     },
+      "components/secondary_page_nav/secondary_page_nav.css": {
+        "uri": "/static/pc_site/style/component/secondary_page_nav.css",
+        "type": "css"
+     },
+
+     "components/footer/footer.tpl": {
+         "uri": "components/footer/footer.tpl",
+         "type": "tpl",
+         "deps": [
+           "components/footer/footer.css"
+         ]
+     },
+     "components/footer/footer.css": {
+        "uri": "/static/pc_site/style/component/footer.css",
+        "type": "css"
+     },
+
+     "components/homebanner/homebanner.tpl": {
+          "uri": "components/homebanner/homebanner.tpl",
+          "type": "tpl",
+          "deps": [
+            "components/homebanner/homebanner.css",
+            "components/homebanner/homebanner.js"
+          ]
+     },
+     "components/homebanner/homebanner.css": {
+        "uri": "/static/pc_site/style/component/homebanner.css",
+        "type": "css"
+     },
+     "components/homebanner/homebanner.js": {
+        "uri": "/static/pc_site/script/component/homebanner.js",
+        "type": "js"
+     },
+
+     "components/home_media/home_media.tpl": {
+          "uri": "components/home_media/home_media.tpl",
+          "type": "tpl",
+          "deps": [
+            "components/home_media/home_media.css"
+          ]
+     },
+     "components/home_media/home_media.css": {
+        "uri": "/static/pc_site/style/component/home_media.css",
+        "type": "css"
+     },
+      "components/pagetitle/pagetitle.tpl": {
+         "uri": "components/pagetitle/pagetitle.tpl",
+         "type": "tpl",
+         "deps": [
+           "components/pagetitle/pagetitle.css"
+         ]
+      },
+      "components/pagetitle/pagetitle.css": {
+        "uri": "/static/pc_site/style/component/pagetitle.css",
+        "type": "css"
+      },
+       "components/dialog_use_agreement/dialog_use_agreement.tpl": {
+         "uri": "components/dialog_use_agreement/dialog_use_agreement.tpl",
+         "type": "tpl"
+      },
+      "components/map/map.tpl": {
+         "uri": "components/map/map.tpl",
+         "type": "tpl",
+         "deps": [
+           "components/map/map.css",
+           "components/map/map.js"
+         ]
+      },
+      "components/map/map.css": {
+        "uri": "/static/pc_site/style/component/map.css",
+        "type": "css"
+      },
+       "components/map/map.js": {
+         "uri": "/static/pc_site/script/component/map.js",
+         "type": "js"
+      }
+     
+    
+  }
+}
