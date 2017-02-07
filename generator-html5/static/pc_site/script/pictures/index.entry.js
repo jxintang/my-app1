@@ -1,5 +1,10 @@
 import 'fancybox';
-console.log(abc+def);
+function test () {
+    if (true){
+        console.log(abc+def);
+    }
+}
+
 //视频播放
 var flowplayerInit = {
 onloadEnd: false,
